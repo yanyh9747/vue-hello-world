@@ -1,24 +1,9 @@
-# vue-hello-world
+# README
 
-## Project setup
-```
-npm install
-```
+这是 [21云盒子](http://www.21yunbox.com/) 上创建的 [Vue.js](https://vuejs.org/) [Hello world](https://expressjs.com/en/starter/hello-world.html) 样例。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+这个应用已经部署在 [https://vue.21yunbox.com](https://vue.21yunbox.com)。
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 部署
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+详情看 [https://doc.21yunbox.com/#/deploy-vue-js](https://doc.21yunbox.com/#/deploy-vue-js)
