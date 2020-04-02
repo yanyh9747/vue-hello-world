@@ -6,4 +6,4 @@
 
 ## 部署
 
-详情看 [https://doc.21yunbox.com/#/deploy-vue-js](https://doc.21yunbox.com/#/deploy-vue-js)
+详情看 [https://www.21yunbox.com/docs/#/deploy-vue-js](https://www.21yunbox.com/docs/#/deploy-vue-js)
